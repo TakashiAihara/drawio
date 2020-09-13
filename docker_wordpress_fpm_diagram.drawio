@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T13:41:02.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.10" etag="yDcjg9s6uWSTwYdhohYc" type="github"><diagram id="rAkDi8enY4TKrb_voPX2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-13T13:44:09.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZuZLZIxoDiY-FWvQGkHk" version="13.6.10" type="github">
+  <diagram id="rAkDi8enY4TKrb_voPX2" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=#2E2E2E;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="680" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-18" target="KuHyW3nJz_BY1vcDpaBD-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-18" target="KuHyW3nJz_BY1vcDpaBD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-18" value="wordpress" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none;flipH=0;labelBackgroundColor=#ffffff;fontColor=#2E2E2E;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-21" target="KuHyW3nJz_BY1vcDpaBD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;fontColor=#2E2E2E;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-21" value="nginx-proxy" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;flipH=0;fontColor=#2E2E2E;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-22" value="db_data" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontColor=#2E2E2E;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="652.95" y="354" width="40.49" height="49.1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-23" value="wordpress_data" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontColor=#2E2E2E;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="354" width="40.49" height="49.1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-26" target="KuHyW3nJz_BY1vcDpaBD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-26" target="KuHyW3nJz_BY1vcDpaBD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-26" value="nginx(fpm)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;flipH=0;fontColor=#2E2E2E;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fontColor=#2E2E2E;strokeColor=#292929;" edge="1" parent="1" source="KuHyW3nJz_BY1vcDpaBD-28" target="KuHyW3nJz_BY1vcDpaBD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KuHyW3nJz_BY1vcDpaBD-28" value="mariadb" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg;html=1;fontColor=#2E2E2E;" vertex="1" parent="1">
+          <mxGeometry x="618.75" y="220" width="108.88" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
